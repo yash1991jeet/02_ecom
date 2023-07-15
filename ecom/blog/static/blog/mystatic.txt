@@ -1,0 +1,2 @@
+<!--This file is not by default-->
+This is my static file in blog app.
